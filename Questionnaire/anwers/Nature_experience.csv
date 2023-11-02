@@ -1,0 +1,25 @@
+UserID,How is the overall quality?,How is the visual quality?,Are the object moved as you expect?,How is the immersive level?,Will you continue exploring the scene under the current system quality and immersive level?
+0,3,4,4,3,y
+1,2,4,2,2,n
+2,5,5,5,5,y
+3,5,5,4,4,y
+4,4,4,5,4,y
+5,4,4,5,3,y
+6,2,4,4,2,n
+7,3,4,1,4,n
+8,4,5,3,4,y
+9,4,4,4,3,n
+10,3,3,5,2,n
+13,4,5,4,5,y
+14,4,4,4,4,y
+16,4,4,4,4,y
+18,2,4,1,4,n
+19,2,2,2,2,n
+20,3,4,4,5,n
+21,3,3,5,3,n
+22,4,4,3,3,y
+26,3,3,4,3,n
+27,4,4,5,3,y
+28,3,4,3,3,y
+29,4,2,5,3,n
+30,4,3,4,4,n
